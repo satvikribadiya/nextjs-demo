@@ -1,0 +1,26 @@
+
+
+
+.contact .php-email-form button[type=button]{
+        background: var(--color-primary);
+            border: 0;
+            padding: 14px 45px;
+            color: #fff;
+            transition: 0.4s;
+            border-radius: 50px;
+}
+/* redux start  */
+.reduxmain{
+    height: 200vh;
+    text-align: center;
+}
+.swiper-wrapper {
+    transition-timing-function: linear !important;
+}
+.textcenter{
+    text-align: center !important;
+}
+.margintop50px{
+    margin-top: 50px;
+}
+/* redux end  */
